@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <br/>
 
@@ -9,7 +9,7 @@
 ██║╚██╔╝██║██╔══╝  ██║  ██║██╔══██╗╚════██║
 ██║ ╚═╝ ██║███████╗██████╔╝██║  ██║███████║
 ╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝
-```
+``` -->
 
 # Multimodal Radiologist Behaviour Simulation Dataset
 
@@ -78,7 +78,9 @@ A screen recording demonstrating the full dataset generation pipeline is availab
 
 <div align="center">
 
-🎥 **[Watch the Dataset Generation Demo →]([https://www.youtube.com/watch?v=23vu0j5YgqY])**
+🎥 **[Watch the Dataset Generation Demo →](https://www.youtube.com/watch?v=23vu0j5YgqY)**
+
+</div>
 
 ---
 
