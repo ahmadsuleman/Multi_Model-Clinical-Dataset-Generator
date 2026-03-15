@@ -78,7 +78,7 @@ A screen recording demonstrating the full dataset generation pipeline is availab
 
 <div align="center">
 
-🎥 **[Watch the Dataset Generation Demo →](YOUR_VIDEO_LINK_HERE)**
+🎥 **[Watch the Dataset Generation Demo →]([YOUR_VIDEO_LINK_HERE](https://www.youtube.com/watch?v=23vu0j5YgqY))**
 
 *Replace the link above with your hosted video (GitHub Assets, YouTube, or Google Drive)*
 
