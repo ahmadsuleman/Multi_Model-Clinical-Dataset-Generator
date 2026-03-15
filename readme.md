@@ -78,15 +78,7 @@ A screen recording demonstrating the full dataset generation pipeline is availab
 
 <div align="center">
 
-🎥 **[Watch the Dataset Generation Demo →]([YOUR_VIDEO_LINK_HERE](https://www.youtube.com/watch?v=23vu0j5YgqY))**
-
-*Replace the link above with your hosted video (GitHub Assets, YouTube, or Google Drive)*
-
-</div>
-
-```
-https://github.com/your-org/your-repo/assets/your-video.mp4
-```
+🎥 **[Watch the Dataset Generation Demo →]([https://www.youtube.com/watch?v=23vu0j5YgqY])**
 
 ---
 
@@ -96,8 +88,8 @@ https://github.com/your-org/your-repo/assets/your-video.mp4
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/your-repo.git
-cd your-repo
+git clone https://github.com/ahmadsuleman/Multi_Model-Clinical-Dataset-Generator.git
+
 
 # Install dependencies
 pip install -r requirements.txt
